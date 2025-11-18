@@ -1,225 +1,222 @@
-{
-  "stub": true,
-  "data": [
-    {
-      "id": "112269329",
-      "date": "",
-      "stop": "2025-11-18 22:14:00",
-      "start": "2025-11-18 21:14:00",
-      "title": "Real Time With Bill Maher",
-      "country": "[]",
-      "category": "Talk Shows",
-      "sub_title": "",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues."
-    },
-    {
-      "id": "112269330",
-      "date": "",
-      "stop": "2025-11-18 22:45:00",
-      "start": "2025-11-18 22:14:00",
-      "title": "I Love LA",
-      "country": "[]",
-      "category": "Comedy",
-      "sub_title": "Girl's Girl",
-      "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
-    },
-    {
-      "id": "112269331",
-      "date": "",
-      "stop": "2025-11-18 23:50:00",
-      "start": "2025-11-18 22:45:00",
-      "title": "IT: Welcome to Derry",
-      "country": "[]",
-      "category": "Regular",
-      "sub_title": "",
-      "description": "Following the events in the 1960s, the time leading up to the events of the first film in the Stephen King \"It\" series."
-    },
-    {
-      "id": "112269332",
-      "date": "2022",
-      "stop": "2025-11-19 02:00:00",
-      "start": "2025-11-18 23:50:00",
-      "title": "A Man Called Otto",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down."
-    },
-    {
-      "id": "112269333",
-      "date": "",
-      "stop": "2025-11-19 03:28:00",
-      "start": "2025-11-19 02:00:00",
-      "title": "Thoughts & Prayers",
-      "country": "[]",
-      "category": "Specials",
-      "sub_title": "",
-      "description": ""
-    },
-    {
-      "id": "112269334",
-      "date": "",
-      "stop": "2025-11-19 04:00:00",
-      "start": "2025-11-19 03:28:00",
-      "title": "I Love LA",
-      "country": "[]",
-      "category": "Comedy",
-      "sub_title": "Girl's Girl",
-      "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
-    },
-    {
-      "id": "112269335",
-      "date": "",
-      "stop": "2025-11-19 05:27:00",
-      "start": "2025-11-19 04:00:00",
-      "title": "Thoughts & Prayers",
-      "country": "[]",
-      "category": "Specials",
-      "sub_title": "",
-      "description": ""
-    },
-    {
-      "id": "112269336",
-      "date": "",
-      "stop": "2025-11-19 05:59:00",
-      "start": "2025-11-19 05:27:00",
-      "title": "I Love LA",
-      "country": "[]",
-      "category": "Comedy",
-      "sub_title": "Girl's Girl",
-      "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
-    },
-    {
-      "id": "112269337",
-      "date": "",
-      "stop": "2025-11-19 06:40:00",
-      "start": "2025-11-19 05:59:00",
-      "title": "Last Week Tonight With John Oliver",
-      "country": "[]",
-      "category": "Talk Shows",
-      "sub_title": "",
-      "description": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events."
-    },
-    {
-      "id": "112269338",
-      "date": "1995",
-      "stop": "2025-11-19 08:20:00",
-      "start": "2025-11-19 06:40:00",
-      "title": "The Brothers McMullen",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "Three Irish-American brothers (Jack Mulcahy, Mike McGlone, Edward Burns) ponder women and one another while living together on Long Island."
-    },
-    {
-      "id": "112527511",
-      "date": "",
-      "stop": "2025-11-19 08:52:00",
-      "start": "2025-11-19 08:20:00",
-      "title": "I Love LA",
-      "country": "[]",
-      "category": "Comedy",
-      "sub_title": "Girl's Girl",
-      "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
-    },
-    {
-      "id": "112527512",
-      "date": "",
-      "stop": "2025-11-19 09:26:00",
-      "start": "2025-11-19 08:52:00",
-      "title": "The Chair Company",
-      "country": "[]",
-      "category": "Comedy",
-      "sub_title": "",
-      "description": "After an embarrassing incident at work, William Ronald Trosper finds himself investigating a far-reaching conspiracy."
-    },
-    {
-      "id": "112527513",
-      "date": "1995",
-      "stop": "2025-11-19 11:15:00",
-      "start": "2025-11-19 09:26:00",
-      "title": "Get Shorty",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "A film-loving loan shark (John Travolta) teams with a B-movie producer (Gene Hackman) to become a Hollywood mogul."
-    },
-    {
-      "id": "112527514",
-      "date": "2014",
-      "stop": "2025-11-19 13:27:00",
-      "start": "2025-11-19 11:15:00",
-      "title": "Dawn of the Planet of the Apes",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "Human survivors of a plague threaten Caesar's growing nation of genetically evolved apes. Though they reach a fragile peace, soon both sides are brought to the brink of a war that will determine which will become Earth's dominant species."
-    },
-    {
-      "id": "112527515",
-      "date": "",
-      "stop": "2025-11-19 14:27:00",
-      "start": "2025-11-19 13:27:00",
-      "title": "Real Time With Bill Maher",
-      "country": "[]",
-      "category": "Talk Shows",
-      "sub_title": "",
-      "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues."
-    },
-    {
-      "id": "112527516",
-      "date": "2016",
-      "stop": "2025-11-19 16:20:00",
-      "start": "2025-11-19 14:27:00",
-      "title": "A United Kingdom",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "In the 1940s, Prince Seretse Khama of Botswana shocks the world when he marries a white woman from London."
-    },
-    {
-      "id": "112527517",
-      "date": "",
-      "stop": "2025-11-19 17:47:00",
-      "start": "2025-11-19 16:20:00",
-      "title": "Thoughts & Prayers",
-      "country": "[]",
-      "category": "Specials",
-      "sub_title": "",
-      "description": ""
-    },
-    {
-      "id": "112527518",
-      "date": "2004",
-      "stop": "2025-11-19 19:51:00",
-      "start": "2025-11-19 17:47:00",
-      "title": "Hellboy",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness."
-    },
-    {
-      "id": "112527519",
-      "date": "2017",
-      "stop": "2025-11-19 21:37:00",
-      "start": "2025-11-19 19:51:00",
-      "title": "Get Out",
-      "country": "[]",
-      "category": "Movies",
-      "sub_title": "",
-      "description": "A young photographer uncovers a dark secret when he meets his girlfriend's seemingly friendly parents for the first time at their posh estate."
-    },
-    {
-      "id": "112798541",
-      "date": "",
-      "stop": "2025-11-19 22:18:00",
-      "start": "2025-11-19 21:37:00",
-      "title": "Last Week Tonight With John Oliver",
-      "country": "[]",
-      "category": "Talk Shows",
-      "sub_title": "",
-      "description": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events."
-    }
-  ]
-}
+[
+  {
+    "id": "112269329",
+    "date": "",
+    "stop": "2025-11-18 22:14:00",
+    "start": "2025-11-18 21:14:00",
+    "title": "Real Time With Bill Maher",
+    "country": "[]",
+    "category": "Talk Shows",
+    "sub_title": "",
+    "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues."
+  },
+  {
+    "id": "112269330",
+    "date": "",
+    "stop": "2025-11-18 22:45:00",
+    "start": "2025-11-18 22:14:00",
+    "title": "I Love LA",
+    "country": "[]",
+    "category": "Comedy",
+    "sub_title": "Girl's Girl",
+    "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
+  },
+  {
+    "id": "112269331",
+    "date": "",
+    "stop": "2025-11-18 23:50:00",
+    "start": "2025-11-18 22:45:00",
+    "title": "IT: Welcome to Derry",
+    "country": "[]",
+    "category": "Regular",
+    "sub_title": "",
+    "description": "Following the events in the 1960s, the time leading up to the events of the first film in the Stephen King \"It\" series."
+  },
+  {
+    "id": "112269332",
+    "date": "2022",
+    "stop": "2025-11-19 02:00:00",
+    "start": "2025-11-18 23:50:00",
+    "title": "A Man Called Otto",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "When a lively young family moves in next door, grumpy widower Otto Anderson meets his match in a quick-witted, pregnant woman named Marisol, leading to an unlikely friendship that turns his world upside down."
+  },
+  {
+    "id": "112269333",
+    "date": "",
+    "stop": "2025-11-19 03:28:00",
+    "start": "2025-11-19 02:00:00",
+    "title": "Thoughts & Prayers",
+    "country": "[]",
+    "category": "Specials",
+    "sub_title": "",
+    "description": ""
+  },
+  {
+    "id": "112269334",
+    "date": "",
+    "stop": "2025-11-19 04:00:00",
+    "start": "2025-11-19 03:28:00",
+    "title": "I Love LA",
+    "country": "[]",
+    "category": "Comedy",
+    "sub_title": "Girl's Girl",
+    "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
+  },
+  {
+    "id": "112269335",
+    "date": "",
+    "stop": "2025-11-19 05:27:00",
+    "start": "2025-11-19 04:00:00",
+    "title": "Thoughts & Prayers",
+    "country": "[]",
+    "category": "Specials",
+    "sub_title": "",
+    "description": ""
+  },
+  {
+    "id": "112269336",
+    "date": "",
+    "stop": "2025-11-19 05:59:00",
+    "start": "2025-11-19 05:27:00",
+    "title": "I Love LA",
+    "country": "[]",
+    "category": "Comedy",
+    "sub_title": "Girl's Girl",
+    "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
+  },
+  {
+    "id": "112269337",
+    "date": "",
+    "stop": "2025-11-19 06:40:00",
+    "start": "2025-11-19 05:59:00",
+    "title": "Last Week Tonight With John Oliver",
+    "country": "[]",
+    "category": "Talk Shows",
+    "sub_title": "",
+    "description": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events."
+  },
+  {
+    "id": "112269338",
+    "date": "1995",
+    "stop": "2025-11-19 08:20:00",
+    "start": "2025-11-19 06:40:00",
+    "title": "The Brothers McMullen",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "Three Irish-American brothers (Jack Mulcahy, Mike McGlone, Edward Burns) ponder women and one another while living together on Long Island."
+  },
+  {
+    "id": "112527511",
+    "date": "",
+    "stop": "2025-11-19 08:52:00",
+    "start": "2025-11-19 08:20:00",
+    "title": "I Love LA",
+    "country": "[]",
+    "category": "Comedy",
+    "sub_title": "Girl's Girl",
+    "description": "A tight-knit friend group gathers after years apart, navigating the complexities of ambition, relationships, and how time has changed them."
+  },
+  {
+    "id": "112527512",
+    "date": "",
+    "stop": "2025-11-19 09:26:00",
+    "start": "2025-11-19 08:52:00",
+    "title": "The Chair Company",
+    "country": "[]",
+    "category": "Comedy",
+    "sub_title": "",
+    "description": "After an embarrassing incident at work, William Ronald Trosper finds himself investigating a far-reaching conspiracy."
+  },
+  {
+    "id": "112527513",
+    "date": "1995",
+    "stop": "2025-11-19 11:15:00",
+    "start": "2025-11-19 09:26:00",
+    "title": "Get Shorty",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "A film-loving loan shark (John Travolta) teams with a B-movie producer (Gene Hackman) to become a Hollywood mogul."
+  },
+  {
+    "id": "112527514",
+    "date": "2014",
+    "stop": "2025-11-19 13:27:00",
+    "start": "2025-11-19 11:15:00",
+    "title": "Dawn of the Planet of the Apes",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "Human survivors of a plague threaten Caesar's growing nation of genetically evolved apes. Though they reach a fragile peace, soon both sides are brought to the brink of a war that will determine which will become Earth's dominant species."
+  },
+  {
+    "id": "112527515",
+    "date": "",
+    "stop": "2025-11-19 14:27:00",
+    "start": "2025-11-19 13:27:00",
+    "title": "Real Time With Bill Maher",
+    "country": "[]",
+    "category": "Talk Shows",
+    "sub_title": "",
+    "description": "Acerbic comic Bill Maher welcomes a panel of guests from diverse parts of the political spectrum for a lively discussion of current events, as well as offering his own perspective on contemporary issues."
+  },
+  {
+    "id": "112527516",
+    "date": "2016",
+    "stop": "2025-11-19 16:20:00",
+    "start": "2025-11-19 14:27:00",
+    "title": "A United Kingdom",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "In the 1940s, Prince Seretse Khama of Botswana shocks the world when he marries a white woman from London."
+  },
+  {
+    "id": "112527517",
+    "date": "",
+    "stop": "2025-11-19 17:47:00",
+    "start": "2025-11-19 16:20:00",
+    "title": "Thoughts & Prayers",
+    "country": "[]",
+    "category": "Specials",
+    "sub_title": "",
+    "description": ""
+  },
+  {
+    "id": "112527518",
+    "date": "2004",
+    "stop": "2025-11-19 19:51:00",
+    "start": "2025-11-19 17:47:00",
+    "title": "Hellboy",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "A demon raised from infancy after being conjured by and rescued from the Nazis, grows up to become a defender against the forces of darkness."
+  },
+  {
+    "id": "112527519",
+    "date": "2017",
+    "stop": "2025-11-19 21:37:00",
+    "start": "2025-11-19 19:51:00",
+    "title": "Get Out",
+    "country": "[]",
+    "category": "Movies",
+    "sub_title": "",
+    "description": "A young photographer uncovers a dark secret when he meets his girlfriend's seemingly friendly parents for the first time at their posh estate."
+  },
+  {
+    "id": "112798541",
+    "date": "",
+    "stop": "2025-11-19 22:18:00",
+    "start": "2025-11-19 21:37:00",
+    "title": "Last Week Tonight With John Oliver",
+    "country": "[]",
+    "category": "Talk Shows",
+    "sub_title": "",
+    "description": "Comedian John Oliver hosts an in-depth, satirical look at developments from the past seven days in news, politics and current events."
+  }
+]
