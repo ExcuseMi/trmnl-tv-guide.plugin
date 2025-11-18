@@ -83,9 +83,26 @@ def create_options_yml():
     channel_options.sort(key=lambda x: list(x.keys())[0].lower())
 
     print(f"\nGenerated {total_channels} channel options")
-
     # Create the custom fields
     custom_fields = []
+    about_field = {
+        'keyname': 'about',
+        'name': 'About This Plugin',
+        'field_type': 'author_bio',
+        'description': f"Display TV program schedules from {len(channels_data)} countries with {total_channels} channels available.<br /><br />\n"
+                       f"<strong>Features:</strong><br />\n"
+                       f"● Live TV schedule with current and upcoming programs<br />\n"
+                       f"● Support for channels from multiple countries<br />\n"
+                       f"● Highlights currently airing programs<br />\n"
+                       f"<strong>Setup Requirements:</strong><br />\n"
+                       f"● Free API key from <a href='https://tv-plan.org/#/apiarea' target='_blank'>TV-Plan.org</a> (takes less than a minute)<br />\n"
+                       f"● Each channel uses one API call per refresh<br />\n"
+                       f"● Recommended: 5 channels with hourly refresh or evening-only schedule<br />\n"
+        ,
+        'github_url': 'https://github.com/ExcuseMi/trmnl-tv-guide.plugin',
+        'learn_more_url': 'https://tv-plan.org/#/apiarea'
+    }
+    custom_fields.append(about_field)
 
     # API Key field
     api_key_field = {
