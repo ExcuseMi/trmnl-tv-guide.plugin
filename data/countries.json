@@ -1,0 +1,509 @@
+{
+  "data": [
+    {
+      "id": "134",
+      "name": "Albania",
+      "display_name": "Albania",
+      "image": "https://tv-plan.org/countryIcons/al.svg"
+    },
+    {
+      "id": "135",
+      "name": "Angola",
+      "display_name": "Angola",
+      "image": "https://tv-plan.org/countryIcons/ao.svg"
+    },
+    {
+      "id": "136",
+      "name": "Argentina",
+      "display_name": "Argentina",
+      "image": "https://tv-plan.org/countryIcons/ar.svg"
+    },
+    {
+      "id": "137",
+      "name": "Australia",
+      "display_name": "Australia",
+      "image": "https://tv-plan.org/countryIcons/au.svg"
+    },
+    {
+      "id": "102",
+      "name": "Austria",
+      "display_name": "Austria",
+      "image": "https://tv-plan.org/countryIcons/at.svg"
+    },
+    {
+      "id": "105",
+      "name": "Belgium",
+      "display_name": "Belgium",
+      "image": "https://tv-plan.org/countryIcons/be.svg"
+    },
+    {
+      "id": "138",
+      "name": "BosniaHerzegovina",
+      "display_name": "Bosnia Herzegovina",
+      "image": "https://tv-plan.org/countryIcons/ba.svg"
+    },
+    {
+      "id": "139",
+      "name": "Brasil",
+      "display_name": "Brasil",
+      "image": "https://tv-plan.org/countryIcons/br.svg"
+    },
+    {
+      "id": "140",
+      "name": "Bulgaria",
+      "display_name": "Bulgaria",
+      "image": "https://tv-plan.org/countryIcons/bg.svg"
+    },
+    {
+      "id": "106",
+      "name": "Canada",
+      "display_name": "Canada",
+      "image": "https://tv-plan.org/countryIcons/ca.svg"
+    },
+    {
+      "id": "142",
+      "name": "Chile",
+      "display_name": "Chile",
+      "image": "https://tv-plan.org/countryIcons/cl.svg"
+    },
+    {
+      "id": "143",
+      "name": "Columbia",
+      "display_name": "Columbia",
+      "image": "https://tv-plan.org/countryIcons/co.svg"
+    },
+    {
+      "id": "144",
+      "name": "CostaRica",
+      "display_name": "Costa Rica",
+      "image": "https://tv-plan.org/countryIcons/cr.svg"
+    },
+    {
+      "id": "145",
+      "name": "Croatia",
+      "display_name": "Croatia",
+      "image": "https://tv-plan.org/countryIcons/hr.svg"
+    },
+    {
+      "id": "146",
+      "name": "Cyprus",
+      "display_name": "Cyprus",
+      "image": "https://tv-plan.org/countryIcons/cy.svg"
+    },
+    {
+      "id": "141",
+      "name": "CzechRepublic",
+      "display_name": "Czech Republic",
+      "image": "https://tv-plan.org/countryIcons/cz.svg"
+    },
+    {
+      "id": "147",
+      "name": "Denmark",
+      "display_name": "Denmark",
+      "image": "https://tv-plan.org/countryIcons/dk.svg"
+    },
+    {
+      "id": "148",
+      "name": "DominicanRepublic",
+      "display_name": "Dominican Republic",
+      "image": "https://tv-plan.org/countryIcons/do.svg"
+    },
+    {
+      "id": "150",
+      "name": "Ecuador",
+      "display_name": "Ecuador",
+      "image": "https://tv-plan.org/countryIcons/ec.svg"
+    },
+    {
+      "id": "151",
+      "name": "Egypt",
+      "display_name": "Egypt",
+      "image": "https://tv-plan.org/countryIcons/eg.svg"
+    },
+    {
+      "id": "149",
+      "name": "ElSalvador",
+      "display_name": "El Salvador",
+      "image": "https://tv-plan.org/countryIcons/sv.svg"
+    },
+    {
+      "id": "107",
+      "name": "Estonia",
+      "display_name": "Estonia",
+      "image": "https://tv-plan.org/countryIcons/ee.svg"
+    },
+    {
+      "id": "152",
+      "name": "Finland",
+      "display_name": "Finland",
+      "image": "https://tv-plan.org/countryIcons/fi.svg"
+    },
+    {
+      "id": "108",
+      "name": "France",
+      "display_name": "France",
+      "image": "https://tv-plan.org/countryIcons/fr.svg"
+    },
+    {
+      "id": "153",
+      "name": "Georgia",
+      "display_name": "Georgia",
+      "image": "https://tv-plan.org/countryIcons/ge.svg"
+    },
+    {
+      "id": "103",
+      "name": "Germany",
+      "display_name": "Germany",
+      "image": "https://tv-plan.org/countryIcons/de.svg"
+    },
+    {
+      "id": "154",
+      "name": "Greece",
+      "display_name": "Greece",
+      "image": "https://tv-plan.org/countryIcons/gr.svg"
+    },
+    {
+      "id": "155",
+      "name": "Guatemala",
+      "display_name": "Guatemala",
+      "image": "https://tv-plan.org/countryIcons/gt.svg"
+    },
+    {
+      "id": "156",
+      "name": "Honduras",
+      "display_name": "Honduras",
+      "image": "https://tv-plan.org/countryIcons/hn.svg"
+    },
+    {
+      "id": "109",
+      "name": "HongKong",
+      "display_name": "HongKong",
+      "image": "https://tv-plan.org/countryIcons/hk.svg"
+    },
+    {
+      "id": "110",
+      "name": "Hungary",
+      "display_name": "Hungary",
+      "image": "https://tv-plan.org/countryIcons/hu.svg"
+    },
+    {
+      "id": "157",
+      "name": "Iceland",
+      "display_name": "Iceland",
+      "image": "https://tv-plan.org/countryIcons/is.svg"
+    },
+    {
+      "id": "111",
+      "name": "India",
+      "display_name": "India",
+      "image": "https://tv-plan.org/countryIcons/in.svg"
+    },
+    {
+      "id": "158",
+      "name": "Indonesia",
+      "display_name": "Indonesia",
+      "image": "https://tv-plan.org/countryIcons/id.svg"
+    },
+    {
+      "id": "159",
+      "name": "Iraq",
+      "display_name": "Iraq",
+      "image": "https://tv-plan.org/countryIcons/iq.svg"
+    },
+    {
+      "id": "113",
+      "name": "Ireland",
+      "display_name": "Ireland",
+      "image": "https://tv-plan.org/countryIcons/ie.svg"
+    },
+    {
+      "id": "160",
+      "name": "Israel",
+      "display_name": "Israel",
+      "image": "https://tv-plan.org/countryIcons/il.svg"
+    },
+    {
+      "id": "112",
+      "name": "Italy",
+      "display_name": "Italy",
+      "image": "https://tv-plan.org/countryIcons/it.svg"
+    },
+    {
+      "id": "161",
+      "name": "Japan",
+      "display_name": "Japan",
+      "image": "https://tv-plan.org/countryIcons/jp.svg"
+    },
+    {
+      "id": "162",
+      "name": "Jordan",
+      "display_name": "Jordan",
+      "image": "https://tv-plan.org/countryIcons/jo.svg"
+    },
+    {
+      "id": "163",
+      "name": "Korea",
+      "display_name": "Korea",
+      "image": "https://tv-plan.org/countryIcons/kr.svg"
+    },
+    {
+      "id": "164",
+      "name": "Latvia",
+      "display_name": "Latvia",
+      "image": "https://tv-plan.org/countryIcons/lv.svg"
+    },
+    {
+      "id": "166",
+      "name": "Lebanon",
+      "display_name": "Lebanon",
+      "image": "https://tv-plan.org/countryIcons/lb.svg"
+    },
+    {
+      "id": "165",
+      "name": "Lithuania",
+      "display_name": "Lithuania",
+      "image": "https://tv-plan.org/countryIcons/lt.svg"
+    },
+    {
+      "id": "167",
+      "name": "Luxembourg",
+      "display_name": "Luxembourg",
+      "image": "https://tv-plan.org/countryIcons/lu.svg"
+    },
+    {
+      "id": "168",
+      "name": "Macedonia",
+      "display_name": "Macedonia",
+      "image": "https://tv-plan.org/countryIcons/mk.svg"
+    },
+    {
+      "id": "114",
+      "name": "Malaysia",
+      "display_name": "Malaysia",
+      "image": "https://tv-plan.org/countryIcons/my.svg"
+    },
+    {
+      "id": "170",
+      "name": "Malta",
+      "display_name": "Malta",
+      "image": "https://tv-plan.org/countryIcons/mt.svg"
+    },
+    {
+      "id": "169",
+      "name": "Mauritius",
+      "display_name": "Mauritius",
+      "image": "https://tv-plan.org/countryIcons/mu.svg"
+    },
+    {
+      "id": "171",
+      "name": "Mexico",
+      "display_name": "Mexico",
+      "image": "https://tv-plan.org/countryIcons/mx.svg"
+    },
+    {
+      "id": "173",
+      "name": "Mongolia",
+      "display_name": "Mongolia",
+      "image": "https://tv-plan.org/countryIcons/mn.svg"
+    },
+    {
+      "id": "115",
+      "name": "Montenegro",
+      "display_name": "Montenegro",
+      "image": "https://tv-plan.org/countryIcons/me.svg"
+    },
+    {
+      "id": "172",
+      "name": "Morocco",
+      "display_name": "Morocco",
+      "image": "https://tv-plan.org/countryIcons/ma.svg"
+    },
+    {
+      "id": "116",
+      "name": "Netherlands",
+      "display_name": "Netherlands",
+      "image": "https://tv-plan.org/countryIcons/nl.svg"
+    },
+    {
+      "id": "175",
+      "name": "NewZealand",
+      "display_name": "New Zealand",
+      "image": "https://tv-plan.org/countryIcons/nz.svg"
+    },
+    {
+      "id": "174",
+      "name": "Nicaragua",
+      "display_name": "Nicaragua",
+      "image": "https://tv-plan.org/countryIcons/ni.svg"
+    },
+    {
+      "id": "117",
+      "name": "Norway",
+      "display_name": "Norway",
+      "image": "https://tv-plan.org/countryIcons/no.svg"
+    },
+    {
+      "id": "178",
+      "name": "Pakistan",
+      "display_name": "Pakistan",
+      "image": "https://tv-plan.org/countryIcons/pk.svg"
+    },
+    {
+      "id": "176",
+      "name": "Panama",
+      "display_name": "Panama",
+      "image": "https://tv-plan.org/countryIcons/pa.svg"
+    },
+    {
+      "id": "177",
+      "name": "Peru",
+      "display_name": "Peru",
+      "image": "https://tv-plan.org/countryIcons/pe.svg"
+    },
+    {
+      "id": "118",
+      "name": "Philippines",
+      "display_name": "Philippines",
+      "image": "https://tv-plan.org/countryIcons/ph.svg"
+    },
+    {
+      "id": "119",
+      "name": "Poland",
+      "display_name": "Poland",
+      "image": "https://tv-plan.org/countryIcons/pl.svg"
+    },
+    {
+      "id": "179",
+      "name": "Portugal",
+      "display_name": "Portugal",
+      "image": "https://tv-plan.org/countryIcons/pt.svg"
+    },
+    {
+      "id": "120",
+      "name": "Qatar",
+      "display_name": "Qatar",
+      "image": "https://tv-plan.org/countryIcons/qa.svg"
+    },
+    {
+      "id": "180",
+      "name": "Romania",
+      "display_name": "Romania",
+      "image": "https://tv-plan.org/countryIcons/ro.svg"
+    },
+    {
+      "id": "121",
+      "name": "Russia",
+      "display_name": "Russia",
+      "image": "https://tv-plan.org/countryIcons/ru.svg"
+    },
+    {
+      "id": "122",
+      "name": "SaudiArabia",
+      "display_name": "Saudi Arabia",
+      "image": "https://tv-plan.org/countryIcons/sa.svg"
+    },
+    {
+      "id": "181",
+      "name": "Serbia",
+      "display_name": "Serbia",
+      "image": "https://tv-plan.org/countryIcons/rs.svg"
+    },
+    {
+      "id": "125",
+      "name": "Singapore",
+      "display_name": "Singapore",
+      "image": "https://tv-plan.org/countryIcons/sg.svg"
+    },
+    {
+      "id": "123",
+      "name": "Slovakia",
+      "display_name": "Slovakia",
+      "image": "https://tv-plan.org/countryIcons/sk.svg"
+    },
+    {
+      "id": "124",
+      "name": "Slovenia",
+      "display_name": "Slovenia",
+      "image": "https://tv-plan.org/countryIcons/si.svg"
+    },
+    {
+      "id": "182",
+      "name": "SouthAfrica",
+      "display_name": "South Africa",
+      "image": "https://tv-plan.org/countryIcons/za.svg"
+    },
+    {
+      "id": "126",
+      "name": "Spain",
+      "display_name": "Spain",
+      "image": "https://tv-plan.org/countryIcons/es.svg"
+    },
+    {
+      "id": "127",
+      "name": "Sweden",
+      "display_name": "Sweden",
+      "image": "https://tv-plan.org/countryIcons/se.svg"
+    },
+    {
+      "id": "128",
+      "name": "Switzerland",
+      "display_name": "Switzerland",
+      "image": "https://tv-plan.org/countryIcons/ch.svg"
+    },
+    {
+      "id": "129",
+      "name": "Thailand",
+      "display_name": "Thailand",
+      "image": "https://tv-plan.org/countryIcons/th.svg"
+    },
+    {
+      "id": "183",
+      "name": "Tunisia",
+      "display_name": "Tunisia",
+      "image": "https://tv-plan.org/countryIcons/tn.svg"
+    },
+    {
+      "id": "130",
+      "name": "Turkey",
+      "display_name": "Turkey",
+      "image": "https://tv-plan.org/countryIcons/tr.svg"
+    },
+    {
+      "id": "131",
+      "name": "Ukraine",
+      "display_name": "Ukraine",
+      "image": "https://tv-plan.org/countryIcons/ua.svg"
+    },
+    {
+      "id": "104",
+      "name": "UnitedArabEmirates",
+      "display_name": "United Arab Emirates",
+      "image": "https://tv-plan.org/countryIcons/ae.svg"
+    },
+    {
+      "id": "132",
+      "name": "UnitedKingdom",
+      "display_name": "United Kingdom",
+      "image": "https://tv-plan.org/countryIcons/gb.svg"
+    },
+    {
+      "id": "133",
+      "name": "UnitedStates",
+      "display_name": "UnitedStates",
+      "image": "https://tv-plan.org/countryIcons/us.svg"
+    },
+    {
+      "id": "184",
+      "name": "Uruguay",
+      "display_name": "Uruguay",
+      "image": "https://tv-plan.org/countryIcons/uy.svg"
+    },
+    {
+      "id": "185",
+      "name": "Venezuela",
+      "display_name": "Venezuela",
+      "image": "https://tv-plan.org/countryIcons/ve.svg"
+    }
+  ],
+  "timestamp": "2025-11-18T19:11:57.633837Z"
+}

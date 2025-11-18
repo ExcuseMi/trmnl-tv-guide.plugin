@@ -1,0 +1,189 @@
+[
+  {
+    "id": "112127938",
+    "start": "2025-11-18 19:00:00",
+    "stop": "2025-11-18 19:30:00",
+    "title": "Terzake",
+    "sub_title": "",
+    "description": "Terzake gaat dieper in op de actualiteit. Met gasten en reportages die het nieuws bepalen aan de hand van scherpe, kritische en verhelderende interviews.",
+    "category": "News magazine",
+    "date": "2025",
+    "country": "BE"
+  },
+  {
+    "id": "112127939",
+    "start": "2025-11-18 19:30:00",
+    "stop": "2025-11-18 19:35:00",
+    "title": "Het weer (laat)",
+    "sub_title": "",
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": "Weather",
+    "date": "",
+    "country": "BE"
+  },
+  {
+    "id": "112127940",
+    "start": "2025-11-18 19:35:00",
+    "stop": "2025-11-18 20:25:00",
+    "title": "De Afspraak",
+    "sub_title": "",
+    "description": "Dagelijks duidingsprogramma waarin de presentatoren een afspraak hebben met gasten uit het nieuws.",
+    "category": "Talk Show",
+    "date": "2025",
+    "country": "BE"
+  },
+  {
+    "id": "112127941",
+    "start": "2025-11-18 20:25:00",
+    "stop": "2025-11-18 21:10:00",
+    "title": "Het grote offensief",
+    "sub_title": "De eindstrijd",
+    "description": "Na de verovering van de zuidelijke Schelde oever ligt de focus op de overkant. Op meerdere fronten wordt de eindstrijd ingezet. Een nieuwe landing dwars door het kanonnenvuur: Het is alles of niets!",
+    "category": "Historical drama",
+    "date": "2025",
+    "country": "NL"
+  },
+  {
+    "id": "112127942",
+    "start": "2025-11-18 21:10:00",
+    "stop": "2025-11-18 22:01:00",
+    "title": "Bevergem",
+    "sub_title": "Harajamar",
+    "description": "De vernieuwingsdrang van Hilde valt niet in goede aarde. Danny kan niet wennen aan zijn leven als miljonair. Amar heeft een rekening met Claude te vereffenen.",
+    "category": "Sitcom",
+    "date": "2015",
+    "country": "BE"
+  },
+  {
+    "id": "112127943",
+    "start": "2025-11-18 22:01:00",
+    "stop": "2025-11-18 22:05:00",
+    "title": "Het weer (laat)",
+    "sub_title": "",
+    "description": "Dagelijks programma waarin de weersvoorspelling wordt gepresenteerd.",
+    "category": "Weather",
+    "date": "",
+    "country": "BE"
+  },
+  {
+    "id": "112127944",
+    "start": "2025-11-18 22:05:00",
+    "stop": "2025-11-18 23:05:00",
+    "title": "De popcast",
+    "sub_title": "",
+    "description": "Stijn Van de Voorde laat in deze podcast samen met Otto-Jan Ham, Kirsten Lemaire, Thibault Christiaensen en Lennert Coorevits zijn licht schijnen over het popnieuws van de afgelopen week.",
+    "category": "Talk Show",
+    "date": "2025",
+    "country": "BE"
+  },
+  {
+    "id": "112127945",
+    "start": "2025-11-18 23:05:00",
+    "stop": "2025-11-19 05:00:00",
+    "title": "Nachtlus",
+    "sub_title": "",
+    "description": "Doorlopende herhaling tot de start van de ochtenduitzendingen.",
+    "category": "Entertainment",
+    "date": "",
+    "country": "BE"
+  },
+  {
+    "id": "112386902",
+    "start": "2025-11-19 05:00:00",
+    "stop": "2025-11-19 08:00:00",
+    "title": "Radio 2 op VRT Canvas: Goeiemorgen Morgen!",
+    "sub_title": "",
+    "description": "De ochtendshow van Radio 2. Peter Van de Veire maakt je elke weekdag wakker, met veel humor, nieuws dat je niet mag missen en boeiende verhalen uit jouw buurt.",
+    "category": "Music",
+    "date": "2025",
+    "country": "BE"
+  },
+  {
+    "id": "112386903",
+    "start": "2025-11-19 08:00:00",
+    "stop": "2025-11-19 11:00:00",
+    "title": "Herfstbeelden",
+    "sub_title": "",
+    "description": "Programma met beelden van de herfst.",
+    "category": "Entertainment",
+    "date": "2014",
+    "country": "BE"
+  },
+  {
+    "id": "112386904",
+    "start": "2025-11-19 11:00:00",
+    "stop": "2025-11-19 12:00:00",
+    "title": "Radio 1: Nieuwe Feiten",
+    "sub_title": "",
+    "description": "Lieven Vandenhaute gaat op zoek naar nieuws dat verbijstert, verbaast of verwondert.",
+    "category": "News magazine",
+    "date": "2025",
+    "country": "BE"
+  },
+  {
+    "id": "112386905",
+    "start": "2025-11-19 12:00:00",
+    "stop": "2025-11-19 15:00:00",
+    "title": "Herfstbeelden",
+    "sub_title": "",
+    "description": "Programma met beelden van de herfst.",
+    "category": "Entertainment",
+    "date": "2014",
+    "country": "BE"
+  },
+  {
+    "id": "112386906",
+    "start": "2025-11-19 15:00:00",
+    "stop": "2025-11-19 16:30:00",
+    "title": "Radio 1: De Wereld Vandaag",
+    "sub_title": "",
+    "description": "Nieuwsprogramma, live vanuit de Radio 1-studio.",
+    "category": "News magazine",
+    "date": "2025",
+    "country": "BE"
+  },
+  {
+    "id": "112386907",
+    "start": "2025-11-19 16:30:00",
+    "stop": "2025-11-19 17:25:00",
+    "title": "Het oude Egypte, rijk van de farao's",
+    "sub_title": "Cult of the Dead",
+    "description": "Het oude Egypte is beroemd om zijn dodencultus. Grafcomplexen, mummies en fabelachtige schatten spreken tot op de dag van vandaag tot de verbeelding. Deze aflevering vertelt het verhaal achter deze cultus.",
+    "category": "Miniseries",
+    "date": "2022",
+    "country": "DE"
+  },
+  {
+    "id": "112386908",
+    "start": "2025-11-19 17:25:00",
+    "stop": "2025-11-19 18:10:00",
+    "title": "Het grote offensief",
+    "sub_title": "De eindstrijd",
+    "description": "Na de verovering van de zuidelijke Schelde oever ligt de focus op de overkant. Op meerdere fronten wordt de eindstrijd ingezet. Een nieuwe landing dwars door het kanonnenvuur: Het is alles of niets!",
+    "category": "Historical drama",
+    "date": "2025",
+    "country": "NL"
+  },
+  {
+    "id": "112386909",
+    "start": "2025-11-19 18:10:00",
+    "stop": "2025-11-19 19:00:00",
+    "title": "Bevergem",
+    "sub_title": "Harajamar",
+    "description": "De vernieuwingsdrang van Hilde valt niet in goede aarde. Danny kan niet wennen aan zijn leven als miljonair. Amar heeft een rekening met Claude te vereffenen.",
+    "category": "Sitcom",
+    "date": "2015",
+    "country": "BE"
+  },
+  {
+    "id": "112386910",
+    "start": "2025-11-19 19:00:00",
+    "stop": "2025-11-19 19:30:00",
+    "title": "Terzake",
+    "sub_title": "",
+    "description": "Terzake gaat dieper in op de actualiteit. Met gasten en reportages die het nieuws bepalen aan de hand van scherpe, kritische en verhelderende interviews.",
+    "category": "News magazine",
+    "date": "2025",
+    "country": "BE"
+  }
+]
