@@ -13,7 +13,7 @@
 
     <strong>Setup Requirements:</strong><br />
 
-    ● Free API key from <a href=''https://tv-plan.org/#/apiarea'' target=''_blank''>TV-Plan.org</a> (takes less than a minute)<br />
+    ● Free API key from <a href=''https://tv-plan.org/#/apiarea''>TV-Plan.org</a> (takes less than a minute)<br />
 
     ● Each channel uses one API call per refresh<br />
 
@@ -25,16 +25,14 @@
 - keyname: api_token
   field_type: string
   name: TV-Plan API Token
-  description: Enter your API token from <a href="https://tv-plan.org/api-v1.php#/apiarea" target="_blank">TV-Plan.org</a>. An API token is required to fetch TV program data.
+  description: Enter your API token from <a href="https://tv-plan.org/api-v1.php#/apiarea">TV-Plan.org</a>. An API token is required to fetch TV program data.
   placeholder: Enter your TV-Plan API token
-  optional: true
 - keyname: channels
   field_type: select
   name: 'TV Channels: 8573'
   description: Select the TV channels you want to track. Channels are organized by country and sorted alphabetically.
   multiple: true
   help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> (Mac) or <kbd>ctrl</kbd>+<kbd>click</kbd> (Windows) to select multiple items. Use <kbd>Shift</kbd>+<kbd>click</kbd> to select a whole range at once.
-  optional: true
   options:
   - Albania - 21 Junior: 23767|21 Junior
   - Albania - A News: 23757|A News
