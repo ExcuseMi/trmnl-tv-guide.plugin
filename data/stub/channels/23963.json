@@ -1,0 +1,206 @@
+
+
+{
+  "stub": true,
+  "data": [
+    {
+      "id": "112260625",
+      "date": "2025",
+      "stop": "2025-11-18 22:00:00",
+      "start": "2025-11-18 21:00:00",
+      "title": "NFL Live",
+      "country": "[]",
+      "category": "Football",
+      "sub_title": "",
+      "description": "National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter."
+    },
+    {
+      "id": "112260626",
+      "date": "2025",
+      "stop": "2025-11-18 22:30:00",
+      "start": "2025-11-18 22:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112260627",
+      "date": "2025",
+      "stop": "2025-11-18 23:00:00",
+      "start": "2025-11-18 22:30:00",
+      "title": "Pardon the Interruption",
+      "country": "[]",
+      "category": "Talk",
+      "sub_title": "",
+      "description": "Veteran sportswriters Tony Kornheiser and Mike Wilbon debate and discuss hot sports topics, issues and events. An on-screen 'rundown' of the topics is a signature of the series, plus guests and responses to viewer e-mail."
+    },
+    {
+      "id": "112790251",
+      "date": "2025",
+      "stop": "2025-11-18 23:30:00",
+      "start": "2025-11-18 23:00:00",
+      "title": "College GameDay",
+      "country": "[]",
+      "category": "Basketball",
+      "sub_title": "",
+      "description": "Rece Davis hosts an in-depth preview of the day's college basketball, including analysis, guests and features. Analysts include Jay Bilas, LaPhonso Ellis and Seth Greenberg."
+    },
+    {
+      "id": "112260629",
+      "date": "2025",
+      "stop": "2025-11-19 01:30:00",
+      "start": "2025-11-18 23:30:00",
+      "title": "Men's College Basketball",
+      "country": "[]",
+      "category": "Basketball",
+      "sub_title": "",
+      "description": "Kentucky vs. Michigan State in the State Farm Champions Classic. From Madison Square Garden in New York City."
+    },
+    {
+      "id": "112518688",
+      "date": "",
+      "stop": "2025-11-19 02:00:00",
+      "start": "2025-11-19 01:30:00",
+      "title": "College Football Playoff: Top 25",
+      "country": "[]",
+      "category": "Football",
+      "sub_title": "",
+      "description": "Announcement and analysis of weekly rankings for the College Football Playoff."
+    },
+    {
+      "id": "112518689",
+      "date": "2025",
+      "stop": "2025-11-19 04:00:00",
+      "start": "2025-11-19 02:00:00",
+      "title": "Men's College Basketball",
+      "country": "[]",
+      "category": "Basketball",
+      "sub_title": "",
+      "description": "Duke vs. Kansas in the State Farm Champions Classic. From Madison Square Garden in New York City."
+    },
+    {
+      "id": "112518690",
+      "date": "2025",
+      "stop": "2025-11-19 05:00:00",
+      "start": "2025-11-19 04:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112518691",
+      "date": "2025",
+      "stop": "2025-11-19 06:00:00",
+      "start": "2025-11-19 05:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112518692",
+      "date": "2025",
+      "stop": "2025-11-19 09:00:00",
+      "start": "2025-11-19 06:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112518693",
+      "date": "2025",
+      "stop": "2025-11-19 12:00:00",
+      "start": "2025-11-19 09:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112518694",
+      "date": "2025",
+      "stop": "2025-11-19 13:00:00",
+      "start": "2025-11-19 12:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112518695",
+      "date": "2025",
+      "stop": "2025-11-19 15:00:00",
+      "start": "2025-11-19 13:00:00",
+      "title": "Get Up",
+      "country": "[]",
+      "category": "Talk",
+      "sub_title": "",
+      "description": "Mike Greenberg and Laura Rutledge discuss and analyze the latest news from the world of sports on a morning show originating from Manhattan's South Street Seaport."
+    },
+    {
+      "id": "112518696",
+      "date": "2025",
+      "stop": "2025-11-19 17:00:00",
+      "start": "2025-11-19 15:00:00",
+      "title": "First Take",
+      "country": "[]",
+      "category": "Magazine",
+      "sub_title": "",
+      "description": "Stephen A. Smith and host Molly Qerim discuss the hottest topics in sports with a variety of analysts and guests also weighing in with their opinions."
+    },
+    {
+      "id": "112790252",
+      "date": "",
+      "stop": "2025-11-19 19:00:00",
+      "start": "2025-11-19 17:00:00",
+      "title": "The Pat McAfee Show",
+      "country": "[]",
+      "category": "Talk",
+      "sub_title": "",
+      "description": "Former NFL punter Pat McAfee and his crew bring the humor, sarcasm, and candor to highlight the top sports stories of the day."
+    },
+    {
+      "id": "112518698",
+      "date": "2025",
+      "stop": "2025-11-19 20:00:00",
+      "start": "2025-11-19 19:00:00",
+      "title": "SportsCenter",
+      "country": "[]",
+      "category": "Newscast",
+      "sub_title": "",
+      "description": "ESPN's flagship program provides a thorough presentation of sports news, highlights and analysis."
+    },
+    {
+      "id": "112518699",
+      "date": "",
+      "stop": "2025-11-19 21:00:00",
+      "start": "2025-11-19 20:00:00",
+      "title": "NBA Today",
+      "country": "[]",
+      "category": "Basketball",
+      "sub_title": "",
+      "description": "NBA news, highlights, discussions and interviews."
+    },
+    {
+      "id": "112518700",
+      "date": "2025",
+      "stop": "2025-11-19 22:00:00",
+      "start": "2025-11-19 21:00:00",
+      "title": "NFL Live",
+      "country": "[]",
+      "category": "Football",
+      "sub_title": "",
+      "description": "National Football League news and discussion with host Laura Rutledge and a team of analysts including Marcus Spears, Mina Kimes, Dan Orlovsky, Ryan Clark and Adam Schefter."
+    }
+  ]
+}
+

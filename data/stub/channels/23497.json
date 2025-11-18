@@ -1,0 +1,152 @@
+
+
+{
+    "stub": true,
+
+  "data": [
+    {
+      "id": "112011245",
+      "date": "2024",
+      "stop": "2025-11-18 23:05:00",
+      "start": "2025-11-18 21:15:00",
+      "title": "Shell",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "Desperate to reclaim her career, once-beloved actress Samantha Lake gets drawn into the glamorous world of wellness mogul Zoe Shannon, only to uncover a monstrous truth beneath the seemingly flawless surface."
+    },
+    {
+      "id": "112011246",
+      "date": "1984",
+      "stop": "2025-11-19 01:00:00",
+      "start": "2025-11-18 23:05:00",
+      "title": "The Terminator",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "A human soldier is sent from 2029 to 1984 to stop a cyborg killing machine, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation."
+    },
+    {
+      "id": "112011247",
+      "date": "2019",
+      "stop": "2025-11-19 03:15:00",
+      "start": "2025-11-19 01:00:00",
+      "title": "Terminator: Dark Fate",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "Seasoned warrior Sarah Connor joins forces with a hybrid cyborg human and the T-800 model to protect a young woman from the Rev-9 -- a newly modified and seemingly indestructible liquid Terminator from the future."
+    },
+    {
+      "id": "112011248",
+      "date": "1990",
+      "stop": "2025-11-19 05:15:00",
+      "start": "2025-11-19 03:15:00",
+      "title": "Total Recall",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "Recurring nightmares of the planet Mars lead a confused earthling into the center of an intergalactic conspiracy."
+    },
+    {
+      "id": "112011249",
+      "date": "2024",
+      "stop": "2025-11-19 07:00:00",
+      "start": "2025-11-19 05:15:00",
+      "title": "Fight or Flight",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "A mercenary takes on the job of tracking a high-value asset known only as \"The Ghost\" on an international flight. Realizing the plane is filled with assassins assigned to kill them both, the pair must work together in a fight for their lives."
+    },
+    {
+      "id": "112284202",
+      "date": "2025",
+      "stop": "2025-11-19 08:45:00",
+      "start": "2025-11-19 07:00:00",
+      "title": "The Last Gunfight",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "As the world's top assassins fight to the death in a ruthless underground tournament, a rogue crew has its own deadly agenda: survive the carnage, outplay the killers and take down the mastermind behind it all."
+    },
+    {
+      "id": "112284203",
+      "date": "2022",
+      "stop": "2025-11-19 10:15:00",
+      "start": "2025-11-19 08:45:00",
+      "title": "Agent Game",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "A CIA officer becomes the target of a rendition operation after being the scapegoat for the death of an interrogation subject."
+    },
+    {
+      "id": "112284204",
+      "date": "2017",
+      "stop": "2025-11-19 12:30:00",
+      "start": "2025-11-19 10:15:00",
+      "title": "Eric Clapton: Life in 12 Bars",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "Eric Clapton is widely renowned as one of the greatest performers of all time. His isolated pursuit of his craft, and fear of selling out, served as a catalyst for his evolution as an artist."
+    },
+    {
+      "id": "112284205",
+      "date": "2017",
+      "stop": "2025-11-19 14:05:00",
+      "start": "2025-11-19 12:30:00",
+      "title": "The Bye Bye Man",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "A couple (Douglas Smith, Cressida Bonas) and their friend (Lucien Laviscount) stumble upon the horrific origins of the Bye Bye Man (Doug Jones), a mysterious figure that they discover is the root cause of the evil behind the most unspeakable acts."
+    },
+    {
+      "id": "112284206",
+      "date": "2016",
+      "stop": "2025-11-19 15:45:00",
+      "start": "2025-11-19 14:05:00",
+      "title": "Masterminds",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "An armored-car driver (Zach Galifianakis) helps a flirty co-worker (Kristen Wiig) and her friends pull off a heist, then finds himself holding the bag after they double-cross him."
+    },
+    {
+      "id": "112284207",
+      "date": "2006",
+      "stop": "2025-11-19 17:35:00",
+      "start": "2025-11-19 15:45:00",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "NASCAR driver Ricky Bobby faces his greatest challenge ever when French Formula One driver Jean Girard roars onto the scene."
+    },
+    {
+      "id": "112284208",
+      "date": "2011",
+      "stop": "2025-11-19 19:30:00",
+      "start": "2025-11-19 17:35:00",
+      "title": "Scream 4",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "The Ghostface Killer returns with a vengeance when self-help author Sidney Prescott (Neve Campbell) arrives in Woodsboro on the last stop of her book tour."
+    },
+    {
+      "id": "112284209",
+      "date": "2016",
+      "stop": "2025-11-19 21:45:00",
+      "start": "2025-11-19 19:30:00",
+      "title": "Patriots Day",
+      "country": "[]",
+      "category": "Movies",
+      "sub_title": "",
+      "description": "In the aftermath of the Boston Marathon bombings, police Sgt. Tommy Saunders, FBI Special Agent Richard DesLauriers and Commissioner Ed Davis join survivors, first responders and other investigators in a race against time to find the suspects."
+    }
+  ]
+}
+

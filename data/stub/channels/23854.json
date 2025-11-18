@@ -1,0 +1,280 @@
+{
+  "stub": true,
+  "data": [
+    {
+      "id": "112257845",
+      "date": "",
+      "stop": "2025-11-18 22:00:00",
+      "start": "2025-11-18 21:00:00",
+      "title": "The Arena With Kasie Hunt",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture."
+    },
+    {
+      "id": "112257846",
+      "date": "",
+      "stop": "2025-11-18 23:00:00",
+      "start": "2025-11-18 22:00:00",
+      "title": "The Lead With Jake Tapper",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture."
+    },
+    {
+      "id": "112257847",
+      "date": "",
+      "stop": "2025-11-19 00:00:00",
+      "start": "2025-11-18 23:00:00",
+      "title": "The Lead With Jake Tapper",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Covering all the day's top stories around the country and the globe, from politics to money, sports to popular culture."
+    },
+    {
+      "id": "112257848",
+      "date": "",
+      "stop": "2025-11-19 01:00:00",
+      "start": "2025-11-19 00:00:00",
+      "title": "Erin Burnett OutFront",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Erin Burnett stays ahead of the headlines, delivering a show that's in-depth and informative."
+    },
+    {
+      "id": "112257849",
+      "date": "",
+      "stop": "2025-11-19 02:00:00",
+      "start": "2025-11-19 01:00:00",
+      "title": "Anderson Cooper 360",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts."
+    },
+    {
+      "id": "112257850",
+      "date": "",
+      "stop": "2025-11-19 03:00:00",
+      "start": "2025-11-19 02:00:00",
+      "title": "The Source With Kaitlan Collins",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Kaitlan Collins is chasing the facts, asking the tough questions and connecting with her sources."
+    },
+    {
+      "id": "112257851",
+      "date": "",
+      "stop": "2025-11-19 04:00:00",
+      "start": "2025-11-19 03:00:00",
+      "title": "CNN NewsNight With Abby Phillip",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world."
+    },
+    {
+      "id": "112257852",
+      "date": "",
+      "stop": "2025-11-19 05:00:00",
+      "start": "2025-11-19 04:00:00",
+      "title": "Laura Coates Live",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Laura Coates goes inside the story with a relentless pursuit of the facts."
+    },
+    {
+      "id": "112257853",
+      "date": "",
+      "stop": "2025-11-19 06:00:00",
+      "start": "2025-11-19 05:00:00",
+      "title": "The Story Is With Elex Michaelson",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor."
+    },
+    {
+      "id": "112257854",
+      "date": "",
+      "stop": "2025-11-19 07:00:00",
+      "start": "2025-11-19 06:00:00",
+      "title": "The Story Is With Elex Michaelson",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor."
+    },
+    {
+      "id": "112513030",
+      "date": "",
+      "stop": "2025-11-19 08:00:00",
+      "start": "2025-11-19 07:00:00",
+      "title": "Anderson Cooper 360",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Anderson Cooper goes beyond the headlines with in-depth reporting and investigations; Anderson keeps his commitment to holding those in power accountable; joining him are guests that frequently include political and legal analysts."
+    },
+    {
+      "id": "112513031",
+      "date": "",
+      "stop": "2025-11-19 09:00:00",
+      "start": "2025-11-19 08:00:00",
+      "title": "CNN NewsNight With Abby Phillip",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Abby Phillip leads a roundtable discussion on the day's biggest stories and issues shaping our world."
+    },
+    {
+      "id": "112513032",
+      "date": "",
+      "stop": "2025-11-19 10:00:00",
+      "start": "2025-11-19 09:00:00",
+      "title": "American Pulse",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Captivating and intriguing local stories from around the U.S. all in one place."
+    },
+    {
+      "id": "112513033",
+      "date": "",
+      "stop": "2025-11-19 11:00:00",
+      "start": "2025-11-19 10:00:00",
+      "title": "Early Start With Rahel Solomon",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "The news you need, first thing. Rahel Solomon has you covered with the latest headlines."
+    },
+    {
+      "id": "112513034",
+      "date": "",
+      "stop": "2025-11-19 12:00:00",
+      "start": "2025-11-19 11:00:00",
+      "title": "CNN This Morning",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Stories from across the world and refreshing conversations with Audie Cornish."
+    },
+    {
+      "id": "112513035",
+      "date": "",
+      "stop": "2025-11-19 13:00:00",
+      "start": "2025-11-19 12:00:00",
+      "title": "CNN News Central",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner."
+    },
+    {
+      "id": "112513036",
+      "date": "",
+      "stop": "2025-11-19 14:00:00",
+      "start": "2025-11-19 13:00:00",
+      "title": "CNN News Central",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner."
+    },
+    {
+      "id": "112513037",
+      "date": "",
+      "stop": "2025-11-19 15:00:00",
+      "start": "2025-11-19 14:00:00",
+      "title": "CNN News Central",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "The latest news from around the world live from CNN's immersive news hub with John Berman, Kate Bolduan and Sara Sidner."
+    },
+    {
+      "id": "112513038",
+      "date": "",
+      "stop": "2025-11-19 16:00:00",
+      "start": "2025-11-19 15:00:00",
+      "title": "The Situation Room",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world."
+    },
+    {
+      "id": "112513039",
+      "date": "",
+      "stop": "2025-11-19 17:00:00",
+      "start": "2025-11-19 16:00:00",
+      "title": "The Situation Room",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Wolf Blitzer and Pamela Brown are in the command center for breaking news, politics and extraordinary reports from around the world."
+    },
+    {
+      "id": "112513040",
+      "date": "",
+      "stop": "2025-11-19 18:00:00",
+      "start": "2025-11-19 17:00:00",
+      "title": "Inside Politics With Dana Bash",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Top political stories researched by top reporters."
+    },
+    {
+      "id": "112513041",
+      "date": "",
+      "stop": "2025-11-19 19:00:00",
+      "start": "2025-11-19 18:00:00",
+      "title": "CNN News Central",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "News from around the world with Brianna Keilar and Boris Sanchez."
+    },
+    {
+      "id": "112513042",
+      "date": "",
+      "stop": "2025-11-19 20:00:00",
+      "start": "2025-11-19 19:00:00",
+      "title": "CNN News Central",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "News from around the world with Brianna Keilar and Boris Sanchez."
+    },
+    {
+      "id": "112513043",
+      "date": "",
+      "stop": "2025-11-19 21:00:00",
+      "start": "2025-11-19 20:00:00",
+      "title": "CNN News Central",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "News from around the world with Brianna Keilar and Boris Sanchez."
+    },
+    {
+      "id": "112513044",
+      "date": "",
+      "stop": "2025-11-19 22:00:00",
+      "start": "2025-11-19 21:00:00",
+      "title": "The Arena With Kasie Hunt",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture."
+    }
+  ]
+}

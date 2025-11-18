@@ -1,0 +1,294 @@
+
+
+{
+  "stub": true,
+  "data": [
+    {
+      "id": "112279313",
+      "date": "",
+      "stop": "2025-11-18 22:00:00",
+      "start": "2025-11-18 21:00:00",
+      "title": "News4 at 4",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news, weather, and exclusive investigations helping make sense of the stories."
+    },
+    {
+      "id": "112279314",
+      "date": "",
+      "stop": "2025-11-18 23:00:00",
+      "start": "2025-11-18 22:00:00",
+      "title": "News4 at 5",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news, weather, and exclusive investigations helping make sense of the stories."
+    },
+    {
+      "id": "112279315",
+      "date": "",
+      "stop": "2025-11-19 00:00:00",
+      "start": "2025-11-18 23:00:00",
+      "title": "News4 at 6",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news and weather helping make sense of the stories."
+    },
+    {
+      "id": "112279316",
+      "date": "",
+      "stop": "2025-11-19 00:30:00",
+      "start": "2025-11-19 00:00:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them."
+    },
+    {
+      "id": "112279317",
+      "date": "",
+      "stop": "2025-11-19 01:00:00",
+      "start": "2025-11-19 00:30:00",
+      "title": "News4 Rundown",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Going deeper into news and weather headlines, with exclusive reporting only seen on News4 - helping to make sense of the stories."
+    },
+    {
+      "id": "112279318",
+      "date": "",
+      "stop": "2025-11-19 04:00:00",
+      "start": "2025-11-19 01:00:00",
+      "title": "Memphis Grizzlies at San Antonio Spurs",
+      "country": "[]",
+      "category": "Sports",
+      "sub_title": "",
+      "description": "From Frost Bank Center in San Antonio."
+    },
+    {
+      "id": "112279319",
+      "date": "",
+      "stop": "2025-11-19 04:34:00",
+      "start": "2025-11-19 04:00:00",
+      "title": "News4 at 11",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": ""
+    },
+    {
+      "id": "112279320",
+      "date": "",
+      "stop": "2025-11-19 05:37:00",
+      "start": "2025-11-19 04:34:00",
+      "title": "The Tonight Show Starring Jimmy Fallon",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "Each weeknight, Jimmy Fallon hosts A-list guests, alongside a topical monologue, fan-favorite games, signature comedy segments and popular music, all part of his mission to make sure that viewers end the day with a smile."
+    },
+    {
+      "id": "112279321",
+      "date": "",
+      "stop": "2025-11-19 06:37:00",
+      "start": "2025-11-19 05:37:00",
+      "title": "Late Night With Seth Meyers",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "With his signature monologue and sharp newsy segments, Seth Meyers hilariously breaks down the day's biggest stories and takes the current political circus head-on, all while hosting A-list guests and people not seen anywhere else in late night."
+    },
+    {
+      "id": "112279322",
+      "date": "",
+      "stop": "2025-11-19 07:07:00",
+      "start": "2025-11-19 06:37:00",
+      "title": "News4 at 11",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Wrapping up the day with the latest local news, weather, and exclusive investigations - helping to make sense of the stories."
+    },
+    {
+      "id": "112537357",
+      "date": "",
+      "stop": "2025-11-19 07:37:00",
+      "start": "2025-11-19 07:07:00",
+      "title": "NBC Nightly News With Tom Llamas",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Tom Llamas anchors the latest news, going beyond the headlines to see how lives are affected by the world around them."
+    },
+    {
+      "id": "112537358",
+      "date": "",
+      "stop": "2025-11-19 08:30:00",
+      "start": "2025-11-19 07:37:00",
+      "title": "The Kelly Clarkson Show",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "Singer Kelly Clarkson brings her gift of connection to a fun and funny hour each weekday, offering heartwarming stories, musical performances, games and surprises."
+    },
+    {
+      "id": "112537359",
+      "date": "",
+      "stop": "2025-11-19 09:00:00",
+      "start": "2025-11-19 08:30:00",
+      "title": "Access Hollywood",
+      "country": "[]",
+      "category": "News Magazine",
+      "sub_title": "",
+      "description": "Hosts Mario Lopez, Kit Hoover, Scott Evans and Zuri Hall take viewers behind the velvet ropes and onto the red carpet to deliver celebrity interviews and entertainment news stories in Hollywood."
+    },
+    {
+      "id": "112537360",
+      "date": "",
+      "stop": "2025-11-19 09:30:00",
+      "start": "2025-11-19 09:00:00",
+      "title": "Early Today",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights."
+    },
+    {
+      "id": "112537361",
+      "date": "",
+      "stop": "2025-11-19 10:00:00",
+      "start": "2025-11-19 09:30:00",
+      "title": "News 4 Today at 4:30",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news, weather, traffic, and good stories happening in the community."
+    },
+    {
+      "id": "112537362",
+      "date": "",
+      "stop": "2025-11-19 11:00:00",
+      "start": "2025-11-19 10:00:00",
+      "title": "News 4 Today at 5",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news, weather, traffic, and good stories happening in the community."
+    },
+    {
+      "id": "112537363",
+      "date": "",
+      "stop": "2025-11-19 12:00:00",
+      "start": "2025-11-19 11:00:00",
+      "title": "News 4 Today at 6",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news, weather, traffic, and good stories happening in the community."
+    },
+    {
+      "id": "112537364",
+      "date": "",
+      "stop": "2025-11-19 14:00:00",
+      "start": "2025-11-19 12:00:00",
+      "title": "Today",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "News headlines, interviews, and stories intended to inform, entertain, inspire and set the agenda each morning for Americans and help viewers with their finances, health and well-being."
+    },
+    {
+      "id": "112537365",
+      "date": "",
+      "stop": "2025-11-19 15:00:00",
+      "start": "2025-11-19 14:00:00",
+      "title": "Today 3rd Hour",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "A news program intended to inform, entertain, inspire and set the agenda each morning, offering news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports."
+    },
+    {
+      "id": "112537366",
+      "date": "",
+      "stop": "2025-11-19 16:00:00",
+      "start": "2025-11-19 15:00:00",
+      "title": "Today With Jenna & Friends",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "America's feel-good morning show with big stars and sweet surprises; a cast of rotating co-hosts join Jenna Bush Hager for an hour of heartfelt connection, inspirational stories, fun and laughs."
+    },
+    {
+      "id": "112537367",
+      "date": "",
+      "stop": "2025-11-19 17:00:00",
+      "start": "2025-11-19 16:00:00",
+      "title": "News4 Midday",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news and weather helping make sense of the stories."
+    },
+    {
+      "id": "112537368",
+      "date": "",
+      "stop": "2025-11-19 18:00:00",
+      "start": "2025-11-19 17:00:00",
+      "title": "Access Daily With Mario & Kit",
+      "country": "[]",
+      "category": "News Magazine",
+      "sub_title": "",
+      "description": "The daily one-hour syndicated entertainment news and lifestyle talk show co-hosted by Mario Lopez, Kit Hoover and Scott Evans features celebrity interviews and gives viewers insider access to Hollywood's biggest stories."
+    },
+    {
+      "id": "112537369",
+      "date": "",
+      "stop": "2025-11-19 19:00:00",
+      "start": "2025-11-19 18:00:00",
+      "title": "The Kelly Clarkson Show",
+      "country": "[]",
+      "category": "Talk Shows",
+      "sub_title": "",
+      "description": "Singer Kelly Clarkson brings her gift of connection to a fun and funny hour each weekday, offering heartwarming stories, musical performances, games and surprises."
+    },
+    {
+      "id": "112537370",
+      "date": "",
+      "stop": "2025-11-19 20:00:00",
+      "start": "2025-11-19 19:00:00",
+      "title": "Dateline",
+      "country": "[]",
+      "category": "News Magazine",
+      "sub_title": "Jonestown: An American Tragedy",
+      "description": "An in-depth look at the journalists who exposed the dangers of cult leader Reverend Jim Jones; interviews with witnesses to murders carried out by Jones' followers."
+    },
+    {
+      "id": "112537371",
+      "date": "",
+      "stop": "2025-11-19 21:00:00",
+      "start": "2025-11-19 20:00:00",
+      "title": "NBC News Daily",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "NBC News provides viewers with the latest national and international news; consumer, health and personal finance reporting; up-to-the-minute local news."
+    },
+    {
+      "id": "112537372",
+      "date": "",
+      "stop": "2025-11-19 22:00:00",
+      "start": "2025-11-19 21:00:00",
+      "title": "News4 at 4",
+      "country": "[]",
+      "category": "News",
+      "sub_title": "",
+      "description": "Local news, weather, and exclusive investigations helping make sense of the stories."
+    }
+  ]
+}
+
