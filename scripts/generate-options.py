@@ -95,7 +95,7 @@ def create_options_yml():
                        f"● Support for channels from multiple countries<br />\n"
                        f"● Highlights currently airing programs<br />\n"
                        f"<strong>Setup Requirements:</strong><br />\n"
-                       f"● Free API key from <a href='https://tv-plan.org/#/apiarea' target='_blank'>TV-Plan.org</a> (takes less than a minute)<br />\n"
+                       f"● Free API key from <a href='https://tv-plan.org/#/apiarea'>TV-Plan.org</a> (takes less than a minute)<br />\n"
                        f"● Each channel uses one API call per refresh<br />\n"
                        f"● Recommended: 5 channels with hourly refresh or evening-only schedule<br />\n"
         ,
@@ -109,9 +109,8 @@ def create_options_yml():
         'keyname': 'api_token',
         'field_type': 'string',
         'name': 'TV-Plan API Token',
-        'description': 'Enter your API token from <a href="https://tv-plan.org/api-v1.php#/apiarea" target="_blank">TV-Plan.org</a>. An API token is required to fetch TV program data.',
+        'description': 'Enter your API token from <a href="https://tv-plan.org/api-v1.php#/apiarea">TV-Plan.org</a>. An API token is required to fetch TV program data.',
         'placeholder': 'Enter your TV-Plan API token',
-        'optional': True
     }
     custom_fields.append(api_key_field)
 
@@ -123,7 +122,6 @@ def create_options_yml():
         'description': 'Select the TV channels you want to track. Channels are organized by country and sorted alphabetically.',
         'multiple': True,
         'help_text': 'Use <kbd>⌘</kbd>+<kbd>click</kbd> (Mac) or <kbd>ctrl</kbd>+<kbd>click</kbd> (Windows) to select multiple items. Use <kbd>Shift</kbd>+<kbd>click</kbd> to select a whole range at once.',
-        'optional': True,
         'options': channel_options
     }
     custom_fields.append(channels_field)
