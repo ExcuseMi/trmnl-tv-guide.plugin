@@ -125,6 +125,34 @@ def create_options_yml():
         'options': channel_options
     }
     custom_fields.append(channels_field)
+    # Time format field
+    time_format_field = {
+        'keyname': 'time_format',
+        'field_type': 'select',
+        'name': 'Time Format',
+        'description': 'Choose how times are displayed on your TV guide.',
+        'options': [
+            {'24-hour (23:00)': '24'},
+            {'12-hour (11:00 PM)': '12'}
+        ],
+        'default': '24',
+        'optional': True
+    }
+    custom_fields.append(time_format_field)
+
+    show_title_bar_field = {
+        'keyname': 'show_title_bar',
+        'field_type': 'select',
+        'name': 'Show Title Bar',
+        'description': 'Display or hide the "TV Guide" title bar at the bottom of the screen.',
+        'options': [
+            {'Show': 'true'},
+            {'Hide': 'false'}
+        ],
+        'default': 'true',
+        'optional': True
+    }
+    custom_fields.append(show_title_bar_field)
 
     # Use custom YAML representer to format the output properly
     def represent_dict_order(dumper, data):

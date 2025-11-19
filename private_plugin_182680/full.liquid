@@ -1,0 +1,36 @@
+<div class="layout layout--stretch">
+  {% for channel in channels %}
+  {% assign channel_parts = channel | split: '|' %}
+  {% assign channel_name = channel_parts[1] %}
+  {% assign idx = forloop.index0 %}
+  {% assign channel_idx = "IDX_" | append: idx %}
+  {% assign channel_response = [channel_idx] %}
+  {% assign channel_items = channel_response.data %}
+  <div class="flex flex--col gap" data-overflow="true">
+    <div class="label label--medium label--inverted">{{ channel_name }}</div>
+    {% assign sorted_items = channel_items | sort: 'start' %}
+    {% for item in sorted_items | limit: 10 %}
+    {% assign adjusted_time = item.start %}
+    
+    {% assign item_start = item.start | date: "%s" | plus: 0 %}
+    {% assign item_stop = item.stop | date: "%s" | plus: 0 %}
+    {% assign current_time = now | plus: 0 %}
+    {% if item_start >= current_time or item_stop > current_time %}
+    {% if item_start <= current_time and current_time < item_stop %}
+      {% assign emphasis = 3 %}
+      {% elsif emphasis == 3 %}
+      {% assign emphasis = 2 %}
+      {% else %}    
+      {% assign emphasis = 1 %}
+      {% endif %}
+      {% render "item_template", item: item, offset: offset, emphasis: emphasis, description: true, time_format:time_format, locale:locale %}
+      {% endif %}
+      {% endfor %}
+    </div>
+      {% endfor %}
+    </div>
+{% if show_title_bar == "true" %}
+<div class="title_bar">
+  <span class="title">TV Guide</span>
+</div>
+{% endif %}

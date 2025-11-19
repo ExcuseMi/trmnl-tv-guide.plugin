@@ -1,25 +1,27 @@
+---
+strategy: polling
+no_screen_padding: 'no'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+polling_url: "{% for channel in channels %}\r\n  {% assign channel_parts = channel | split: '|' %}\r\n  {% assign channel_id = channel_parts[0] %}\r\n{% if api_token and api_token != \"stub\" %}\r\nhttps://tv-plan.org/api-v1.php?apitoken={{api_token}}&resource=programsOfChannel&channelId={{channel_id}}\r\n{% else %}\r\nhttps://raw.githubusercontent.com/ExcuseMi/trmnl-tv-guide.plugin/refs/heads/main/data/stub/channels/{{channel_id}}.json\r\n{% endif %}\r\n{% endfor %}"
+polling_headers: ''
+polling_body: ''
+id: 182680
+custom_fields:
 - keyname: about
   name: About This Plugin
   field_type: author_bio
-  description: 'Display TV program schedules from 84 countries with 8573 channels available.<br /><br />
-
+  description: |
+    Display TV program schedules from 84 countries with 8573 channels available.<br /><br />
     <strong>Features:</strong><br />
-
     ● Live TV schedule with current and upcoming programs<br />
-
     ● Support for channels from multiple countries<br />
-
     ● Highlights currently airing programs<br />
-
     <strong>Setup Requirements:</strong><br />
-
-    ● Free API key from <a href=''https://tv-plan.org/#/apiarea''>TV-Plan.org</a> (takes less than a minute)<br />
-
+    ● Free API key from <a href='https://tv-plan.org/#/apiarea'>TV-Plan.org</a> (takes less than a minute)<br />
     ● Each channel uses one API call per refresh<br />
-
     ● Recommended: 5 channels with hourly refresh or evening-only schedule<br />
-
-    '
   github_url: https://github.com/ExcuseMi/trmnl-tv-guide.plugin
   learn_more_url: https://tv-plan.org/#/apiarea
 - keyname: api_token
@@ -8625,3 +8627,5 @@
   - Hide: 'false'
   default: 'true'
   optional: true
+name: TV Guide
+refresh_interval: 60
