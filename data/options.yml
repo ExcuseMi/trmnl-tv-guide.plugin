@@ -1,7 +1,7 @@
 - keyname: about
   name: About This Plugin
   field_type: author_bio
-  description: 'Display TV program schedules from 84 countries with 8573 channels available.<br /><br />
+  description: 'Display TV program schedules from 84 countries with 8574 channels available.<br /><br />
 
     <strong>Features:</strong><br />
 
@@ -29,7 +29,7 @@
   placeholder: Enter your TV-Plan API token
 - keyname: channels
   field_type: select
-  name: 'TV Channels: 8573'
+  name: 'TV Channels: 8574'
   description: Select the TV channels you want to track. Channels are organized by country and sorted alphabetically.
   multiple: true
   help_text: Use <kbd>⌘</kbd>+<kbd>click</kbd> (Mac) or <kbd>ctrl</kbd>+<kbd>click</kbd> (Windows) to select multiple items. Use <kbd>Shift</kbd>+<kbd>click</kbd> to select a whole range at once.
@@ -1497,6 +1497,7 @@
   - Denmark - Investigation Discovery: 24723|Investigation Discovery
   - Denmark - Kanal 4: 24724|Kanal 4
   - Denmark - Kanal 5: 24725|Kanal 5
+  - Denmark - Kanal Hovedstaden: 27103|Kanal Hovedstaden
   - Denmark - MTV: 24726|MTV
   - Denmark - Nat Geo Wild: 24727|Nat Geo Wild
   - Denmark - National Geographic Channel: 24728|National Geographic Channel

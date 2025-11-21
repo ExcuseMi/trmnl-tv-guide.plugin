@@ -408,7 +408,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:11:57.737710Z"
+    "timestamp": "2025-11-21T01:06:16.296142Z"
   },
   "135": {
     "data": [
@@ -504,7 +504,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:11:58.323101Z"
+    "timestamp": "2025-11-21T01:06:16.932436Z"
   },
   "136": {
     "data": [
@@ -1044,11 +1044,11 @@
         "id": "23904",
         "uid": "zoomoo.ar",
         "display_name": "ZooMoo",
-        "image": "https://tv-plan.org/epgicons/Argentina/ar_estrellas-animales-s01e37-muchas-piernas_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/Argentina/ar_estrellas-animales-s01e45-animales-arriesgados_l_m.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:11:58.940182Z"
+    "timestamp": "2025-11-21T01:06:17.593242Z"
   },
   "137": {
     "data": [
@@ -2278,7 +2278,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:11:59.572214Z"
+    "timestamp": "2025-11-21T01:06:18.235625Z"
   },
   "102": {
     "data": [
@@ -2528,7 +2528,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:00.175663Z"
+    "timestamp": "2025-11-21T01:06:18.856285Z"
   },
   "105": {
     "data": [
@@ -3289,7 +3289,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:00.787516Z"
+    "timestamp": "2025-11-21T01:06:19.550049Z"
   },
   "138": {
     "data": [
@@ -3609,7 +3609,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:01.383999Z"
+    "timestamp": "2025-11-21T01:06:20.167779Z"
   },
   "139": {
     "data": [
@@ -4548,7 +4548,7 @@
         "id": "24249",
         "uid": "universal.br",
         "display_name": "Universal Channel",
-        "image": "https://tv-plan.org/epgicons/Brasil/00000000087951_epg.jpg",
+        "image": "https://tv-plan.org/epgicons/Brasil/00000000104894_epg.jpg",
         "isTop": "0"
       },
       {
@@ -4573,7 +4573,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:01.997574Z"
+    "timestamp": "2025-11-21T01:06:20.805777Z"
   },
   "140": {
     "data": [
@@ -5222,7 +5222,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:02.594014Z"
+    "timestamp": "2025-11-21T01:06:21.446162Z"
   },
   "106": {
     "data": [
@@ -7509,7 +7509,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:03.233869Z"
+    "timestamp": "2025-11-21T01:06:22.093552Z"
   },
   "142": {
     "data": [
@@ -7577,7 +7577,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:04.154594Z"
+    "timestamp": "2025-11-21T01:06:22.726725Z"
   },
   "143": {
     "data": [
@@ -8275,7 +8275,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:04.744775Z"
+    "timestamp": "2025-11-21T01:06:23.355659Z"
   },
   "144": {
     "data": [
@@ -8343,7 +8343,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:05.336341Z"
+    "timestamp": "2025-11-21T01:06:23.984531Z"
   },
   "145": {
     "data": [
@@ -9209,7 +9209,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:05.940840Z"
+    "timestamp": "2025-11-21T01:06:24.634036Z"
   },
   "146": {
     "data": [
@@ -9392,11 +9392,11 @@
         "id": "24702",
         "uid": "tlc.cy",
         "display_name": "TLC",
-        "image": "",
+        "image": "https://tv-plan.org/epgicons/Cyprus/10002070637847a134f0.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:06.540411Z"
+    "timestamp": "2025-11-21T01:06:25.262618Z"
   },
   "141": {
     "data": [
@@ -9495,7 +9495,7 @@
         "id": "24442",
         "uid": "seznamtv.cz",
         "display_name": "SEZNAM TV",
-        "image": "https://tv-plan.org/epgicons/CzechRepublic/24fcef932e33c3dbbff8d167eb04c031.jpg",
+        "image": "https://tv-plan.org/epgicons/CzechRepublic/seznamtv.cz.png",
         "isTop": "1"
       },
       {
@@ -10157,7 +10157,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:07.141676Z"
+    "timestamp": "2025-11-21T01:06:25.935015Z"
   },
   "147": {
     "data": [
@@ -10379,10 +10379,17 @@
         "isTop": "0"
       },
       {
+        "id": "27103",
+        "uid": "kanalhovedstaden.dk",
+        "display_name": "Kanal Hovedstaden",
+        "image": "https://tv-plan.org/epgicons/Denmark/kanalhovedstaden.dk.png",
+        "isTop": "0"
+      },
+      {
         "id": "24726",
         "uid": "MTV.dk",
         "display_name": "MTV",
-        "image": "https://tv-plan.org/epgicons/Denmark/MTV.dk.png",
+        "image": "https://tv-plan.org/epgicons/Denmark/mtv.dk.png",
         "isTop": "0"
       },
       {
@@ -10659,7 +10666,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:07.739475Z"
+    "timestamp": "2025-11-21T01:06:26.566973Z"
   },
   "148": {
     "data": [
@@ -10765,11 +10772,11 @@
         "id": "24788",
         "uid": "televida.do",
         "display_name": "Televida",
-        "image": "https://tv-plan.org/epgicons/DominicanRepublic/fallback_other_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/DominicanRepublic/co_angelus-1_l_m.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:08.332363Z"
+    "timestamp": "2025-11-21T01:06:27.191003Z"
   },
   "150": {
     "data": [
@@ -10823,7 +10830,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:08.936089Z"
+    "timestamp": "2025-11-21T01:06:27.817137Z"
   },
   "151": {
     "data": [
@@ -11164,7 +11171,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:09.547629Z"
+    "timestamp": "2025-11-21T01:06:28.449704Z"
   },
   "149": {
     "data": [
@@ -11228,11 +11235,11 @@
         "id": "24797",
         "uid": "vtv.sv",
         "display_name": "VTV",
-        "image": "https://tv-plan.org/epgicons/ElSalvador/fallback_other_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/ElSalvador/sv_deportivo-contacto-deportivo_l_m.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:10.139820Z"
+    "timestamp": "2025-11-21T01:06:29.110045Z"
   },
   "107": {
     "data": [
@@ -11510,7 +11517,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:10.732616Z"
+    "timestamp": "2025-11-21T01:06:29.741999Z"
   },
   "152": {
     "data": [
@@ -12096,7 +12103,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:11.331926Z"
+    "timestamp": "2025-11-21T01:06:30.390727Z"
   },
   "108": {
     "data": [
@@ -13483,11 +13490,11 @@
         "id": "19504",
         "uid": "zouktv.fr",
         "display_name": "ZOUK TV",
-        "image": "https://tv-plan.org/epgicons/France/2456182.jpg",
+        "image": "https://tv-plan.org/epgicons/France/5392786.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:11.952317Z"
+    "timestamp": "2025-11-21T01:06:31.065263Z"
   },
   "153": {
     "data": [
@@ -13674,7 +13681,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:12.549166Z"
+    "timestamp": "2025-11-21T01:06:31.682319Z"
   },
   "103": {
     "data": [
@@ -14977,7 +14984,7 @@
         "id": "18760",
         "uid": "uhd1.de",
         "display_name": "UHD1",
-        "image": "https://tv-plan.org/epgicons/Germany/18670108.jpg",
+        "image": "https://tv-plan.org/epgicons/Germany/18578769.jpg",
         "isTop": "0"
       },
       {
@@ -15065,7 +15072,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:13.188908Z"
+    "timestamp": "2025-11-21T01:06:32.334728Z"
   },
   "154": {
     "data": [
@@ -16109,7 +16116,7 @@
         "id": "25060",
         "uid": "viasatnature.gr",
         "display_name": "Viasat Nature",
-        "image": "https://tv-plan.org/epgicons/Greece/stb_xl_100038893819201080.jpg",
+        "image": "https://tv-plan.org/epgicons/Greece/stb_xl_100038893919201080.jpg",
         "isTop": "0"
       },
       {
@@ -16120,7 +16127,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:13.819431Z"
+    "timestamp": "2025-11-21T01:06:32.983189Z"
   },
   "155": {
     "data": [
@@ -16149,7 +16156,7 @@
         "id": "25069",
         "uid": "televisiete.gt",
         "display_name": "Televisiete Canal 7",
-        "image": "https://tv-plan.org/epgicons/Guatemala/gt_cine-sexy-comedia_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/Guatemala/gt_primer-impacto_l_m.jpg",
         "isTop": "1"
       },
       {
@@ -16188,7 +16195,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:14.410858Z"
+    "timestamp": "2025-11-21T01:06:33.599249Z"
   },
   "156": {
     "data": [
@@ -16224,11 +16231,11 @@
         "id": "25074",
         "uid": "telesistema.hn",
         "display_name": "Telesistema",
-        "image": "https://tv-plan.org/epgicons/Honduras/hn_al-banquillo_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/Honduras/fallback_other_l_m.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:15.002313Z"
+    "timestamp": "2025-11-21T01:06:34.217941Z"
   },
   "109": {
     "data": [
@@ -17073,7 +17080,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:15.616095Z"
+    "timestamp": "2025-11-21T01:06:34.858150Z"
   },
   "110": {
     "data": [
@@ -17946,7 +17953,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:16.251815Z"
+    "timestamp": "2025-11-21T01:06:35.518119Z"
   },
   "157": {
     "data": [
@@ -18105,7 +18112,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:16.864543Z"
+    "timestamp": "2025-11-21T01:06:36.143759Z"
   },
   "111": {
     "data": [
@@ -21862,7 +21869,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:17.517650Z"
+    "timestamp": "2025-11-21T01:06:36.823152Z"
   },
   "158": {
     "data": [
@@ -22602,7 +22609,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:18.118660Z"
+    "timestamp": "2025-11-21T01:06:37.448107Z"
   },
   "159": {
     "data": [
@@ -22628,7 +22635,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:18.813951Z"
+    "timestamp": "2025-11-21T01:06:38.074707Z"
   },
   "113": {
     "data": [
@@ -22794,7 +22801,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:19.415143Z"
+    "timestamp": "2025-11-21T01:06:38.689155Z"
   },
   "160": {
     "data": [
@@ -23303,7 +23310,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:20.022478Z"
+    "timestamp": "2025-11-21T01:06:39.304240Z"
   },
   "112": {
     "data": [
@@ -24183,7 +24190,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:20.637756Z"
+    "timestamp": "2025-11-21T01:06:39.927474Z"
   },
   "161": {
     "data": [
@@ -24510,7 +24517,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:21.235725Z"
+    "timestamp": "2025-11-21T01:06:40.544037Z"
   },
   "162": {
     "data": [
@@ -24536,7 +24543,7 @@
         "isTop": "1"
       }
     ],
-    "timestamp": "2025-11-18T19:12:21.975116Z"
+    "timestamp": "2025-11-21T01:06:41.153479Z"
   },
   "163": {
     "data": [
@@ -25591,7 +25598,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:23.003811Z"
+    "timestamp": "2025-11-21T01:06:41.792014Z"
   },
   "164": {
     "data": [
@@ -25830,11 +25837,11 @@
         "id": "25476",
         "uid": "visatnature.lv",
         "display_name": "Viasat Nature",
-        "image": "https://tv-plan.org/epgicons/Latvia/abcbea5eed9b41d692f15f3e4d096563.jpg",
+        "image": "https://tv-plan.org/epgicons/Latvia/13d9a0a21e554ebebfa5770bd14fdabe.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:23.611971Z"
+    "timestamp": "2025-11-21T01:06:42.419168Z"
   },
   "166": {
     "data": [
@@ -25909,7 +25916,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:24.423323Z"
+    "timestamp": "2025-11-21T01:06:43.036554Z"
   },
   "165": {
     "data": [
@@ -26148,11 +26155,11 @@
         "id": "25510",
         "uid": "viasatnature.lt",
         "display_name": "Viasat Nature",
-        "image": "https://tv-plan.org/epgicons/Lithuania/3155b144168b0bd724b7b85cf99562e2.webp",
+        "image": "https://tv-plan.org/epgicons/Lithuania/7e9e9555d327b787538a17e9b2554ba5.webp",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:25.020206Z"
+    "timestamp": "2025-11-21T01:06:43.650451Z"
   },
   "167": {
     "data": [
@@ -26199,7 +26206,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:25.624726Z"
+    "timestamp": "2025-11-21T01:06:44.266459Z"
   },
   "168": {
     "data": [
@@ -26330,7 +26337,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:26.468178Z"
+    "timestamp": "2025-11-21T01:06:44.880965Z"
   },
   "114": {
     "data": [
@@ -26867,7 +26874,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:27.072592Z"
+    "timestamp": "2025-11-21T01:06:45.508647Z"
   },
   "170": {
     "data": [
@@ -27005,7 +27012,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:27.675492Z"
+    "timestamp": "2025-11-21T01:06:46.132897Z"
   },
   "169": {
     "data": [
@@ -27591,7 +27598,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:28.284823Z"
+    "timestamp": "2025-11-21T01:06:46.771079Z"
   },
   "171": {
     "data": [
@@ -28425,7 +28432,7 @@
         "id": "25805",
         "uid": "quiero.mx",
         "display_name": "Quiero",
-        "image": "https://tv-plan.org/epgicons/Mexico/ar_frecuencia-q_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/Mexico/ar_en-alta_l_m.jpg",
         "isTop": "0"
       },
       {
@@ -28730,7 +28737,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:28.911369Z"
+    "timestamp": "2025-11-21T01:06:47.425123Z"
   },
   "173": {
     "data": [
@@ -28889,7 +28896,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:29.509990Z"
+    "timestamp": "2025-11-21T01:06:48.044370Z"
   },
   "115": {
     "data": [
@@ -28957,7 +28964,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:30.365377Z"
+    "timestamp": "2025-11-21T01:06:48.666466Z"
   },
   "172": {
     "data": [
@@ -29046,7 +29053,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:30.974990Z"
+    "timestamp": "2025-11-21T01:06:49.281079Z"
   },
   "116": {
     "data": [
@@ -29926,7 +29933,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:31.606761Z"
+    "timestamp": "2025-11-21T01:06:49.929140Z"
   },
   "175": {
     "data": [
@@ -30491,7 +30498,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:32.213023Z"
+    "timestamp": "2025-11-21T01:06:50.555318Z"
   },
   "174": {
     "data": [
@@ -30503,7 +30510,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:32.822396Z"
+    "timestamp": "2025-11-21T01:06:51.167929Z"
   },
   "117": {
     "data": [
@@ -31085,7 +31092,7 @@
         "id": "20684",
         "uid": "vsportlive5.no",
         "display_name": "V Sport Live 5",
-        "image": "https://tv-plan.org/epgicons/Norway/030246309266d0e9e035.jpg",
+        "image": "https://tv-plan.org/epgicons/Norway/030247709278d0e9e035.jpg",
         "isTop": "0"
       },
       {
@@ -31131,7 +31138,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:33.434260Z"
+    "timestamp": "2025-11-21T01:06:51.805830Z"
   },
   "178": {
     "data": [
@@ -31262,7 +31269,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:34.043842Z"
+    "timestamp": "2025-11-21T01:06:52.431666Z"
   },
   "176": {
     "data": [
@@ -31774,11 +31781,11 @@
         "id": "25986",
         "uid": "universalchannellatinamerica.pa",
         "display_name": "Universal Channel Lat.Am.",
-        "image": "https://tv-plan.org/epgicons/Panama/sv_la-ley-y-el-orden-uve-s17e06-instintos-maternales_l_m.jpg",
+        "image": "https://tv-plan.org/epgicons/Panama/fallback_tvepisode_l_m.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:34.658770Z"
+    "timestamp": "2025-11-21T01:06:53.062508Z"
   },
   "177": {
     "data": [
@@ -31888,7 +31895,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:35.259820Z"
+    "timestamp": "2025-11-21T01:06:53.690607Z"
   },
   "118": {
     "data": [
@@ -32243,7 +32250,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:35.859782Z"
+    "timestamp": "2025-11-21T01:06:54.319943Z"
   },
   "119": {
     "data": [
@@ -33809,7 +33816,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:36.746555Z"
+    "timestamp": "2025-11-21T01:06:54.978632Z"
   },
   "179": {
     "data": [
@@ -34885,7 +34892,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:37.377146Z"
+    "timestamp": "2025-11-21T01:06:55.633395Z"
   },
   "120": {
     "data": [
@@ -35331,7 +35338,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:38.009981Z"
+    "timestamp": "2025-11-21T01:06:56.257441Z"
   },
   "180": {
     "data": [
@@ -36736,7 +36743,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:38.656668Z"
+    "timestamp": "2025-11-21T01:06:56.910825Z"
   },
   "121": {
     "data": [
@@ -37903,7 +37910,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:39.285449Z"
+    "timestamp": "2025-11-21T01:06:57.558577Z"
   },
   "122": {
     "data": [
@@ -38489,7 +38496,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:39.891625Z"
+    "timestamp": "2025-11-21T01:06:58.188821Z"
   },
   "181": {
     "data": [
@@ -39565,7 +39572,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:40.526919Z"
+    "timestamp": "2025-11-21T01:06:58.841107Z"
   },
   "125": {
     "data": [
@@ -39857,7 +39864,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:41.141773Z"
+    "timestamp": "2025-11-21T01:06:59.484202Z"
   },
   "123": {
     "data": [
@@ -40058,7 +40065,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:41.749320Z"
+    "timestamp": "2025-11-21T01:07:00.126937Z"
   },
   "124": {
     "data": [
@@ -40616,7 +40623,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:42.354401Z"
+    "timestamp": "2025-11-21T01:07:00.764549Z"
   },
   "182": {
     "data": [
@@ -41559,7 +41566,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:42.988099Z"
+    "timestamp": "2025-11-21T01:07:01.401540Z"
   },
   "126": {
     "data": [
@@ -42407,11 +42414,11 @@
         "id": "21378",
         "uid": "xtrm.es",
         "display_name": "XTRM",
-        "image": "https://tv-plan.org/epgicons/Spain/bg_16615816173778146849.jpg",
+        "image": "https://tv-plan.org/epgicons/Spain/xtrm.es.png",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:43.607681Z"
+    "timestamp": "2025-11-21T01:07:02.061793Z"
   },
   "127": {
     "data": [
@@ -42937,11 +42944,11 @@
         "id": "21447",
         "uid": "vsportfotboll.se",
         "display_name": "V Sport Fotboll",
-        "image": "https://tv-plan.org/epgicons/Sweden/68ef8f904d66b.jpg",
+        "image": "https://tv-plan.org/epgicons/Sweden/67a5ee83d45d2.jpg",
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:44.222815Z"
+    "timestamp": "2025-11-21T01:07:02.698556Z"
   },
   "128": {
     "data": [
@@ -42991,7 +42998,7 @@
         "id": "21526",
         "uid": "zdf.ch",
         "display_name": "ZDF",
-        "image": "https://tv-plan.org/epgicons/Switzerland/p12261673bh10ad_BannerL1_W660.webp",
+        "image": "https://tv-plan.org/epgicons/Switzerland/p12339826bh10aa_BannerL1_W660.webp",
         "isTop": "1"
       },
       {
@@ -43499,7 +43506,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:44.839838Z"
+    "timestamp": "2025-11-21T01:07:03.322118Z"
   },
   "129": {
     "data": [
@@ -43868,7 +43875,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:45.454045Z"
+    "timestamp": "2025-11-21T01:07:03.948582Z"
   },
   "183": {
     "data": [
@@ -43908,7 +43915,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:46.065604Z"
+    "timestamp": "2025-11-21T01:07:04.580942Z"
   },
   "130": {
     "data": [
@@ -44963,7 +44970,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:46.698091Z"
+    "timestamp": "2025-11-21T01:07:05.234983Z"
   },
   "131": {
     "data": [
@@ -45052,7 +45059,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:47.305939Z"
+    "timestamp": "2025-11-21T01:07:05.864357Z"
   },
   "104": {
     "data": [
@@ -45687,7 +45694,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:47.923593Z"
+    "timestamp": "2025-11-21T01:07:06.501868Z"
   },
   "132": {
     "data": [
@@ -48555,7 +48562,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:48.603595Z"
+    "timestamp": "2025-11-21T01:07:07.248985Z"
   },
   "133": {
     "data": [
@@ -60327,7 +60334,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:49.335243Z"
+    "timestamp": "2025-11-21T01:07:07.992430Z"
   },
   "184": {
     "data": [
@@ -60384,7 +60391,7 @@
         "id": "26667",
         "uid": "goltv.uy",
         "display_name": "GOL TV",
-        "image": "https://tv-plan.org/epgicons/Uruguay/48246210.jpg",
+        "image": "https://tv-plan.org/epgicons/Uruguay/26541028.jpg",
         "isTop": "0"
       },
       {
@@ -60416,7 +60423,7 @@
         "isTop": "0"
       }
     ],
-    "timestamp": "2025-11-18T19:12:49.941089Z"
+    "timestamp": "2025-11-21T01:07:08.704746Z"
   },
   "185": {
     "data": [
@@ -60428,6 +60435,6 @@
         "isTop": "1"
       }
     ],
-    "timestamp": "2025-11-18T19:12:50.590295Z"
+    "timestamp": "2025-11-21T01:07:09.328698Z"
   }
 }
