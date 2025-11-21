@@ -3,16 +3,31 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2025-11-20 06:18:36 UTC*
+*Last updated: 2025-11-21 06:19:36 UTC*
 
 
-## 🔒 Plugin ID: 182680
+## <img src="assets/plugin-images/182680_icon.png" alt="TV Guide icon" width="32"/> [TV Guide](https://usetrmnl.com/recipes/182680)
 
-**Status**: ⏳ Not yet published on TRMNL or API unavailable
+![TV Guide screenshot](assets/plugin-images/182680_screenshot.png)
 
-This plugin is configured but either hasn't been published to the TRMNL marketplace yet or the API is temporarily unavailable.
+### Description
+Display TV program schedules from 84 countries with 8574 channels available.<br /><br />
+<strong>Features:</strong><br />
+● Live TV schedule with current and upcoming programs<br />
+● Support for channels from multiple countries<br />
+● Highlights currently airing programs<br />
+<strong>Setup Requirements:</strong><br />
+● Free API key from <a href='https://tv-plan.org/#/apiarea'>TV-Plan.org</a> (takes less than a minute)<br />
+● Each channel uses one API call per refresh<br />
+● Recommended: 5 channels with hourly refresh or evening-only schedule<br />
 
-**Plugin URL**: https://usetrmnl.com/recipes/182680
+
+### 📊 Statistics
+
+| Metric | Value |
+|--------|-------|
+| Installs | 1 |
+| Forks | 1 |
 
 ---
 
