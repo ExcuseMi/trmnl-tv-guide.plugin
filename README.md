@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2026-03-23 06:58:45 UTC*
+*Last updated: 2026-03-24 06:53:35 UTC*
 
 
 ## <img src="assets/plugin-images/182680_icon.png" alt="TV Guide icon" width="32"/> [TV Guide](https://usetrmnl.com/recipes/182680)
@@ -27,7 +27,7 @@ Display TV program schedules from 84 countries with 8574 channels available.<br 
 | Metric | Value |
 |--------|-------|
 | Installs | 1 |
-| Forks | 6 |
+| Forks | 7 |
 
 ---
 
