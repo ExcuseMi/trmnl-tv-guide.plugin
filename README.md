@@ -3,7 +3,7 @@
 <!-- PLUGIN_STATS_START -->
 ## 🚀 TRMNL Plugin(s)
 
-*Last updated: 2026-04-21 07:22:28 UTC*
+*Last updated: 2026-04-22 07:20:28 UTC*
 
 
 ## <img src="assets/plugin-images/182680_icon.png" alt="TV Guide icon" width="32"/> [TV Guide](https://usetrmnl.com/recipes/182680)
